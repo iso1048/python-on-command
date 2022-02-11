@@ -19,7 +19,7 @@ After navigating to the project directory (`POC`)...
 python poc [-h] [command] [args ...]
 ```
 
-Running the application from the `POC` directory with the `-h` option will show the available commands:
+Running the application with the `-h` option will show the available commands:
 
 ```
 ...\POC>python poc -h
